@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reacthost/static/css/main.3a60e23a.chunk.css",
+    "main.js": "/reacthost/static/js/main.5103d81b.chunk.js",
+    "main.js.map": "/reacthost/static/js/main.5103d81b.chunk.js.map",
+    "runtime-main.js": "/reacthost/static/js/runtime-main.c9dbde42.js",
+    "runtime-main.js.map": "/reacthost/static/js/runtime-main.c9dbde42.js.map",
+    "static/css/2.aafe37f4.chunk.css": "/reacthost/static/css/2.aafe37f4.chunk.css",
+    "static/js/2.78e98027.chunk.js": "/reacthost/static/js/2.78e98027.chunk.js",
+    "static/js/2.78e98027.chunk.js.map": "/reacthost/static/js/2.78e98027.chunk.js.map",
+    "index.html": "/reacthost/index.html",
+    "static/css/2.aafe37f4.chunk.css.map": "/reacthost/static/css/2.aafe37f4.chunk.css.map",
+    "static/css/main.3a60e23a.chunk.css.map": "/reacthost/static/css/main.3a60e23a.chunk.css.map",
+    "static/js/2.78e98027.chunk.js.LICENSE.txt": "/reacthost/static/js/2.78e98027.chunk.js.LICENSE.txt",
+    "static/media/OIP.8cc7fe2c.jfif": "/reacthost/static/media/OIP.8cc7fe2c.jfif",
+    "static/media/about-us.b89e4185.png": "/reacthost/static/media/about-us.b89e4185.png",
+    "static/media/about.8e0b1ae8.jpg": "/reacthost/static/media/about.8e0b1ae8.jpg",
+    "static/media/banner-image.b68bdead.png": "/reacthost/static/media/banner-image.b68bdead.png",
+    "static/media/img1.b51dded1.jfif": "/reacthost/static/media/img1.b51dded1.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9dbde42.js",
+    "static/css/2.aafe37f4.chunk.css",
+    "static/js/2.78e98027.chunk.js",
+    "static/css/main.3a60e23a.chunk.css",
+    "static/js/main.5103d81b.chunk.js"
+  ]
+}
